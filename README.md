@@ -10,7 +10,7 @@
 
 # 사용 방법
 
-1. 해당 프로젝트 `Clone` 하기
+1. 해당 프로젝트 `Fork` 후, `Clone` 하기
 
 2. `package.json`의 `name`을 변경해주세요.
 
