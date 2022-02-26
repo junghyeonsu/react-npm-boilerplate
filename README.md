@@ -1,4 +1,4 @@
-# npm-boilerplate
+# react-npm-boilerplate
 
 해당 프로젝트는 `create-react-app --template typescript` 로 만들어졌습니다.
 
